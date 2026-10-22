@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Abbaa" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/green</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/yellow</item>
+        <item name="android:statusBarColor">@color/green</item>
+    </style>
+</resources>

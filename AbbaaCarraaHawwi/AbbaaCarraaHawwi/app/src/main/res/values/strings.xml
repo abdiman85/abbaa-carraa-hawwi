@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Abbaa carraa hawwi</string>
+    <string name="subtitle">Lakkoofsa carraa filadhu: 1 – 2000</string>
+    <string name="pick">FILADHU</string>
+    <string name="no_repeat">Irra deddeebi'uu dhoowwi</string>
+    <string name="history">Seenaa:</string>
+    <string name="clear">Haqi</string>
+    <string name="all_picked">Lakkoofsonni hundi filataman!</string>
+</resources>
