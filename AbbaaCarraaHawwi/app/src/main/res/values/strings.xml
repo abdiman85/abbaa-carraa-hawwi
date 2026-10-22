@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Abbaa carraa hawwi</string>
+    <string name="subtitle">ከ1 እስከ 2000 እጣ ያውጡ • Carraa 1 hanga 2000</string>
+    <string name="prize_n">%dኛ እጣ</string>
+    <string name="prize_both">%1$dኛ እጣ  •  Carraa %1$dffaa</string>
+    <string name="draw_next">%1$dኛ እጣ አውጣ\nCarraa %1$dffaa baasi</string>
+    <string name="drawing">እየተመረጠ…\nFilachaa jira…</string>
+    <string name="restart">እንደገና ጀምር\nIrra deebi\'ii jalqabi</string>
+    <string name="done">ሁሉም እጣዎች ወጥተዋል!\nCarraan hundi baheera!</string>
+    <string name="results_title">የእጣ ውጤቶች • Bu\'aa Carraa</string>
+    <string name="congrats">🎉 እንኳን ደስ አላችሁ! 🎉\nBaga gammaddan!</string>
+</resources>
